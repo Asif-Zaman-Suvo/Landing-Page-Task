@@ -98,7 +98,7 @@ hr.thirdEyeSectionDivider{
 
 .serviceImage{
     background-image: url(./assets/Images/service.png);
-    width: 99%;
+    width: 100%;
     height: 170px;
 }
 
@@ -106,7 +106,7 @@ hr.thirdEyeSectionDivider{
     width: 220px;
     height: 100px;
     background-color: #F3F6FB;
-    border: 1px solid #182F59;
+    border: 2px solid #182F59;
     border-radius: 10px;
     text-align: center;
     padding-top: 20px;
@@ -114,3 +114,94 @@ hr.thirdEyeSectionDivider{
     padding-right: 5px;
 
 }
+
+.newCard{
+    margin-left: 33%;
+}
+
+.feedback{
+    background-color: #F3F6FB;
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+}
+
+hr.customerFeedbackDivider{
+    border: 2px solid #5BBC2E;
+    width: 55px;
+    margin-left: 160px;
+
+}
+
+.pricingSection{
+    border-left: 1px solid #182F59;
+    border-right: 1px solid #182F59;
+    border-bottom: 1px solid #182F59;
+    border-top: 4px solid #182F59;
+    margin-right: 10px;
+}
+
+.trialSection{
+    width: 100%;
+    height: 300px;
+    background-color: #182F58;
+    margin-top: 10%;
+}
+
+.trialButton{
+    padding: 8px 40px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.trialDivider{
+    border: 3px solid white;
+    width: 75px;
+    margin-left: 43%;
+}
+
+.resourceDivider{
+    border: 2px solid #182F58;
+    width:150px;
+    margin: auto;
+}
+
+.card{
+    margin-left: 30px;
+    background-color:#F3F6FB ;
+    border: none;
+    border-radius: 10px;
+}
+
+.footer{
+    width: 100%;
+    height: 600px;
+    background-color: #182F58;
+    margin-top: 7%;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    color: #fff;
+}
+
+.copyright{
+    width: 100%;
+    height: 70px;
+}
+
+.copyrightButton{
+    border: none;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #182F59;
+    color: white;
+    font-weight:bold;
+}
+
