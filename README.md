@@ -2,4 +2,3 @@
 
 ### Assignment Task By TechForing.LTD
 
-![alt text]("./assets/Images/VA scanner home desktop.jpg")
